@@ -32,9 +32,12 @@ Ada dua cara setting manual ARP List Mikrotik.
 - lalu tekan Ctrl + A di keyboard.  
 - Klik kanan pada salah satu data klien.
 
-![m]()
+![m](IMG_20250816_110026.jpg)
 
-- Terakhir, klik Make Static.    
+- Terakhir, klik Make Static.
+  bisa di lihat semua clien sudah dapat mac address
+  
+![m]()
 
 Setelah mengaktifkan ARP List MikroTik dengan cara diatas,    
 hanya IP Address dan Mac Address yang sudah kita daftarkan,    
