@@ -19,7 +19,7 @@ tanggal 16 Agustus
   C: \> arp-s 192.168.2.1 00-aa-00-62-c6-09. 
   
 # Konfigurasi ARP dan static ARP
-**ARP (Address Resolution Protocol**.  
+**ARP (Address Resolution Protocol)**.  
 **Enable**.   
 
 Langkah 1: Aktifkan ARP di Interface List  
