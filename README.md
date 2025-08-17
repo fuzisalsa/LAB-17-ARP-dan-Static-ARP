@@ -71,3 +71,4 @@ sedangkan Static ARP adalah entri ARP yang ditambahkan
 secara manual dan tidak berubah-ubah.  
 # sumber. 
 https://mikrotikgame.blogspot.com/2017/08/cara-setting-arp-list-mikrotik.html?m=1
+https://drive.google.com/file/d/1IUjPTXdBi0mH_CvpcCXSo3-hv3pX4_og/view?usp=drivesdk
