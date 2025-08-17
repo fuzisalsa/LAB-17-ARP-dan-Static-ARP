@@ -1,8 +1,26 @@
 # LAB-17-ARP-dan-Static-ARP
 tanggal 16 Agustus 
 
+**Interface ARP Mode**
+
+• Enable: ode ini default enable pada semua interface di MikroTik.    
+  Semua ARP akan ditemukan dan secara dinamik ditambahkan dalam    
+  ARP tabel.   
+• Proxy ARP: Router dengan mode ARP proxy akan bertindak sebagai   
+  transparan proxy ARP antara dia atau lebih jaringan yang terhubung   
+  langsung.   
+• Reply Only: ARP reply-only memungkinkan router hanya kan mereply   
+  ARP statis ditemukan di tabel ARP, akses ke router dan ke jaringan di 
+  belakang router hanya dapat diakses oleh kombinasi Ip dan mac      
+  address yang ditemukan di tabel ARP.     
+• Disable: permintaan ARP dari klien tidak dijawab oleh router. Oleh    
+  karena itu, statis arp entri harus ditambahkan disamping disisi router   
+  juga disisi client. misal pada Windows menggunakan perintah arp:     
+  C: \> arp-s 192.168.2.1 00-aa-00-62-c6-09. 
+  
 # Konfigurasi ARP dan static ARP
-**ARP (Address Resolution Protocol**
+**ARP (Address Resolution Protocol**.  
+**Enable**.   
 
 Langkah 1: Aktifkan ARP di Interface List  
 
